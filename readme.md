@@ -5,7 +5,6 @@
 <p align="center"><h1 align="center">SUPERSTOREANALYSIS</h1></p>
 
 <p align="center">
-	<img src="https://img.shields.io/github/license/saminyc/SuperStoreAnalysis?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/saminyc/SuperStoreAnalysis?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/saminyc/SuperStoreAnalysis?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/saminyc/SuperStoreAnalysis?style=default&color=0080ff" alt="repo-language-count">
@@ -25,7 +24,6 @@
   - [ Testing](#-testing)
 - [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
-- [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
 ---
@@ -126,12 +124,6 @@ Run individual cells within the notebook to verify the outputs at each stage of 
 ## Contributing
 
 I welcome contributions! Check out the [contributing guidelines](#contributing) for more details.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
