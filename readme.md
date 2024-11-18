@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://cdn.dribbble.com/users/7793/screenshots/832007/build-it-big.gif" align="center" width="30%">
+    <img src="https://www.freepik.com/free-vector/online-shopping-concept-landing-page_5155307.htm#fromView=search&page=1&position=1&uuid=4c6ec789-cb0a-44ce-a7f1-86b226b6611b" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">SUPERSTOREANALYSIS</h1></p>
 
