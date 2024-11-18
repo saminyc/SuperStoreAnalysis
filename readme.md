@@ -36,6 +36,8 @@ Key objectives include:
 - Identifying and handling null values.
 - Removing duplicate entries.
 - Segmenting and analyzing customer types.
+- Revealing patterns in sales trends.
+- Identifying top-performing products driving the majority of sales.
 
 ---
 
