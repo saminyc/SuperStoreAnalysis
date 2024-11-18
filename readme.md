@@ -119,7 +119,7 @@ Run individual cells within the notebook to verify the outputs at each stage of 
 
 - [X] **`Task 1`**: Data Cleaning (null values, duplicates).
 - [X] **`Task 2`**: Initial Exploratory Data Analysis.
-- [ ] **`Task 3`**: Advanced visualizations.
+- [X] **`Task 3`**: Advanced visualizations.
 
 ---
 
