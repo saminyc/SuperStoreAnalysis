@@ -1,8 +1,5 @@
 
-<p align="center">
-    <img src="https://images.app.goo.gl/2bo97Szigxt6hjhV7" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">SUPERSTOREANALYSIS</h1></p>
+<p align="center"><h1 align="center">Superstore Analysis</h1></p>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/saminyc/SuperStoreAnalysis?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
